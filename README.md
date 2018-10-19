@@ -1,1 +1,3 @@
-# gauge-ocr
+# Gauge Meter OCR
+
+![Output](result.png)
